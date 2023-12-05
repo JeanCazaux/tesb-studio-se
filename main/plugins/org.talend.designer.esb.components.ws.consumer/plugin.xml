@@ -428,10 +428,10 @@
             uripath="platform:/plugin/org.talend.libraries.esb/lib/${tesb-wss4j-ws-security-common}"
             bundleID="" />
         <libraryNeeded context="plugin:org.talend.libraries.esb"
-            name="${tesb-xmlsec}"
+            name="xmlsec-${xmlsec.version}.jar"
             id="xmlsec"
             mvn_uri="mvn:org.apache.santuario/xmlsec/${xmlsec.version}"
-            uripath="platform:/plugin/org.talend.libraries.esb/lib/${tesb-xmlsec}"
+            uripath="platform:/plugin/org.talend.libraries.esb/lib/xmlsec-${xmlsec.version}.jar"
             bundleID="" />
         <libraryNeeded context="plugin:org.talend.libraries.esb"
             name="commons-codec-1.15.jar"
