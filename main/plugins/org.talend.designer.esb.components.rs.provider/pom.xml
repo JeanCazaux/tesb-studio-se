@@ -53,6 +53,7 @@
                             <excludeTransitive>true</excludeTransitive>
                             <outputDirectory>${basedir}/lib</outputDirectory>
                             <excludeGroupIds>p2.eclipse-plugin,org.talend.studio</excludeGroupIds>
+			    <includeGroupIds>org.talend.studio,org.javadelight,org.mozilla</includeGroupIds>
                         </configuration>
                     </execution>
                 </executions>

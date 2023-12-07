@@ -59,6 +59,7 @@
 						    <excludeGroupIds>org.talend.studio</excludeGroupIds>
 			                <includeScope>runtime</includeScope>
 			                <excludeTransitive>true</excludeTransitive>
+					<includeGroupIds>com.sun.xml.bind,org.apache.cxf,org.codehaus.woodstox,com.sun.istack,javax.ws.rs,org.codehaus.jettison,org.slf4j,org.apache.wss4j,org.apache.santuario,com.google.guava,org.glassfish.jaxb,org.apache.neethi,com.fasterxml.woodstox,org.apache.ws.xmlschema,org.springframework,aopalliance,org.talend.esb,org.ops4j.pax.cdi,ch.qos.reload4j,org.apache.servicemix.bundles,org.apache.zookeeper,org.talend.esb.policies,commons-jxpath,org.talend.camel,org.scala-lang,org.osgi,com.fasterxml.jackson.core,com.fasterxml.jackson.dataformat,org.yaml,javax.validation,jakarta.xml.soap,org.apache.geronimo.specs,jakarta.xml.ws,jakarta.activation,jakarta.xml.bind,jakarta.annotation,com.sun.activation,org.apache.servicemix.specs,org.apache.activemq,org.cryptacular,org.bouncycastle,jakarta.ws.rs,org.jvnet.staxex,org.glassfish.jaxb,jakarta.jws,xml-resolver,commons-logging,commons-lang,joda-time</includeGroupIds>
 						</configuration>
 					</execution>
 				</executions>
