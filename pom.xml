@@ -74,7 +74,7 @@
 	</repository>
 	<repository>
 		<id>apache-releases</id>
-		<url>https://artifacts-oss.talend.com/nexus/content/repositories/apache-releases/</url>
+		<url>https://nexus.deilink.fr/repository/talaxie/</url>
 		<name>Apache releases Repo</name>
 		<snapshots>
 			<enabled>false</enabled>
@@ -110,7 +110,7 @@
   <pluginRepositories>
 	<pluginRepository>
 		<id>trojanbug.plugins</id>
-		<url>https://artifacts-oss.talend.com/nexus/content/repositories/propertymapper-maven-plugin/</url>
+		<url>https://nexus.deilink.fr/repository/talaxie/</url>
 		<releases>
 			<enabled>true</enabled>
 			<updatePolicy>never</updatePolicy>
